@@ -25,20 +25,20 @@
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
-			<key>CFBundleURLSchemes</key>
-			<array>
-				<string>fb982629019624106</string>
-				<!-- twitter login -->
-				<string>socialauth</string>
-				<!-- twitter login -->
-			</array>
-		</dict>
-		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
+			<!-- fb login -->
+			    <string>fb982629019624106</string>
+				<!-- fb login//-->
+			<!-- twitter -->
+				<string>socialauth</string>
+				<!-- twitter// -->
+		    <!-- google login -->
+			                       <!-- googleservice info plist reverse client id -->
 				<string>com.googleusercontent.apps.69499919135-ut1fg8jutehu617bg1b5vs0013cm6d8f</string>
+				<!-- google login //-->
 			</array>
 		</dict>
 	</array>
